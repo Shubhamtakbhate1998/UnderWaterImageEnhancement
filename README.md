@@ -11,14 +11,5 @@ TensorFlow and PyTorch implementations of the paper *[Fast Underwater Image Enha
 | ![det-enh](/data/gif1.gif) | ![det-gif](/data/gif2.gif)     |
 
 
-### FUnIE-GAN Features
-- Provides competitive performance for underwater image enhancement
-- Offers real-time inference on single-board computers
-	- 48+ FPS on Jetson AGX Xavier, 25+ FPS on Jetson TX2
-	- 148+ FPS on Nvidia GTX 1080 
-- Suitable for underwater robotic deployments for enhanced vision 
 
-
-	}
-	```
 
